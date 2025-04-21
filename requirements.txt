@@ -181,7 +181,6 @@ protobuf==4.25.6
 psutil==5.9.1
 ptyprocess==0.7.0
 pure-eval==0.2.2
-py3minepi @ file:///C:/Users/Max/Desktop/Minecraft%20Python/Minecraft_Tools/Minecraft%20Tools/minecraftPythonAPI.zip#sha256=7cf2e2830b3cfa83b35b5dfb5ba9548ccba8a0a72445c1d037d170b3f54a5813
 pyarrow==19.0.1
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
